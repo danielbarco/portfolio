@@ -28,5 +28,5 @@ yarn-error.log*
 Server/node_modules
 Server/config.js
 .aider*
-venv_aider*
+venv_portfolio*
 .gitignore
