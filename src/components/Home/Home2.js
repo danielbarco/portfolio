@@ -19,37 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+              Hello! I'm Daniel Barco, a PhD candidate at ZHAW Zurich University of Applied Sciences, specializing in data science. I write code mostly in
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Python </b>
               </i>
+              and want to use data science for social good.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              I've worked as a Data Scientist at RaiseNow and developed a software tool to facilitate Malaria Detection on microscopic images.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              Fluent in English, German, Spanish, and French, I bring a global perspective to my work.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

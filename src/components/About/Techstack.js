@@ -39,10 +39,7 @@ function Techstack() {
         <SiR />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiScikitLearn />
+        <SiPostgresql />
       </Col>
     </Row>
   );
