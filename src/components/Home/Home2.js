@@ -20,13 +20,13 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               Hello! I'm Daniel Barco, a PhD candidate at ZHAW Zurich University of Applied Sciences, specializing in data science. I write code mostly in
-              <i>
-                <b className="purple"> Python </b>
-              </i>
-              and want to use data science for social good.
+              <span className="purple"> Python </span>.
               <br />
               <br />
-              I've worked as a Data Scientist at RaiseNow and developed a software tool to facilitate Malaria Detection on microscopic images.
+              I've worked as a Data Scientist at RaiseNow a softeware startup as well as for the International Comittee of the Red Cross.
+              <br />
+              <br />
+              My goal is to use <span className="purple">data science for social good </span>. This is why I have developed a deep learning algorithm to facility the detection of Malaria on blood smears and am currently research how to reduce radiation exposure in medical imaging.
               <br />
               <br />
               Fluent in English, German, Spanish, and French, I bring a global perspective to my work.
