@@ -33,6 +33,11 @@ function ProjectCards(props) {
             {"Demo"}
           </Button>
         )}
+        {props.pubLink && (
+          <Button variant="primary" href={props.pubLink} target="_blank">
+            Publication
+          </Button>
+        )}
       </Card.Body>
     </Card>
   );
