@@ -35,7 +35,8 @@ function ProjectCards(props) {
         )}
         {props.pubLink && (
           <Button variant="primary" href={props.pubLink} target="_blank">
-            Publication
+            <CgWebsite /> &nbsp;
+            {"Publication"}
           </Button>
         )}
       </Card.Body>
