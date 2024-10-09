@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/danielbarco/static/css/main.de46afed.css",
-    "main.js": "/danielbarco/static/js/main.05340ea2.js",
+    "main.js": "/danielbarco/static/js/main.00556349.js",
     "static/js/770.b477def6.chunk.js": "/danielbarco/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/danielbarco/static/js/453.1407b060.chunk.js",
     "static/media/malaria-detection.gif": "/danielbarco/static/media/malaria-detection.f92a370f53a3b01dc943.gif",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/danielbarco/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/danielbarco/index.html",
     "main.de46afed.css.map": "/danielbarco/static/css/main.de46afed.css.map",
-    "main.05340ea2.js.map": "/danielbarco/static/js/main.05340ea2.js.map",
+    "main.00556349.js.map": "/danielbarco/static/js/main.00556349.js.map",
     "770.b477def6.chunk.js.map": "/danielbarco/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/danielbarco/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de46afed.css",
-    "static/js/main.05340ea2.js"
+    "static/js/main.00556349.js"
   ]
 }
