@@ -17,7 +17,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hello! I'm Daniel Barco, a PhD candidate at ZHAW Zurich University of Applied Sciences, specializing in data science. I write code mostly in
+              Hello! I'm Daniel Barco, a PhD candidate at the University of Zurich. I write code mostly in
               <span className="purple"> Python </span>.
               <br />
               <br />

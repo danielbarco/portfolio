@@ -18,7 +18,7 @@ function AboutCard() {
             My research at the Centre for Artificial Intelligence (ZHAW) focuses on the development of deep learning algorithms for vision tasks.
             <br />
             <br />
-            I have completed <span className="purple">MSc in Applied Information and Data Science </span> from the University of Applied Sciences of Luzern (HSLU), a MSSc in International and European Relations from the University of Linköping in Sweden as well as a BSc in International Management from the Zurich University of Applied Sciences.
+            I have a <span className="purple">MSc in Applied Information and Data Science </span> from the University of Applied Sciences of Luzern (HSLU), a MSSc in International and European Relations from the University of Linköping in Sweden as well as a BSc in International Management from the Zurich University of Applied Sciences.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
