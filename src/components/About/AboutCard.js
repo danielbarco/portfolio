@@ -36,7 +36,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Use data science for social good!"{" "}
+            "I want to use data science for social good!"{" "}
           </p>
           <footer className="blockquote-footer">Daniel</footer>
         </blockquote>
