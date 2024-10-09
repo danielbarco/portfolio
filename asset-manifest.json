@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/danielbarco/static/css/main.de46afed.css",
-    "main.js": "/danielbarco/static/js/main.00556349.js",
+    "main.js": "/danielbarco/static/js/main.724200ac.js",
     "static/js/770.b477def6.chunk.js": "/danielbarco/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/danielbarco/static/js/453.1407b060.chunk.js",
+    "static/media/uzh_3mt.png": "/danielbarco/static/media/uzh_3mt.9f799a538f8689b72331.png",
     "static/media/malaria-detection.gif": "/danielbarco/static/media/malaria-detection.f92a370f53a3b01dc943.gif",
     "static/media/scorpio.png": "/danielbarco/static/media/scorpio.f41f7ce87bd439711fef.png",
     "static/media/portrait_HSLU.png": "/danielbarco/static/media/portrait_HSLU.07315f5d0b7e6bc5b5c9.png",
@@ -17,12 +18,12 @@
     "static/media/pre.svg": "/danielbarco/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/danielbarco/index.html",
     "main.de46afed.css.map": "/danielbarco/static/css/main.de46afed.css.map",
-    "main.00556349.js.map": "/danielbarco/static/js/main.00556349.js.map",
+    "main.724200ac.js.map": "/danielbarco/static/js/main.724200ac.js.map",
     "770.b477def6.chunk.js.map": "/danielbarco/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/danielbarco/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de46afed.css",
-    "static/js/main.00556349.js"
+    "static/js/main.724200ac.js"
   ]
 }
