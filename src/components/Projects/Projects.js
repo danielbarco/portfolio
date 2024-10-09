@@ -36,9 +36,9 @@ function Projects() {
             <ProjectCard
               imgPath={uzh_3mt}
               isBlog={false}
-              title="3 minute thesis"
+              title="🏆 3 minute thesis"
               description="I won the 3 minute thesis audience award at the University of Zurich with my talk on detecting malaria with deep learning."
-              Link="https://github.com/danielbarco/malariadetection_webapp/tree/main"
+              Link="https://www.grc.uzh.ch/de/events/3mt-overview/3mt-winner.html"
             />
           </Col>
 
