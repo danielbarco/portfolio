@@ -5,6 +5,8 @@ import Particle from "../Particle";
 import scorpio from "../../Assets/Projects/scorpio.png";
 import malaria_detection from "../../Assets/Projects/malaria-detection.gif";
 import review from "../../Assets/Projects/review.png";
+import masterthesis from "../../Assets/Projects/masterthesis.png";
+import portrait_HSLU from "../../Assets/Projects/portrait_HSLU.png";
 
 function Projects() {
   return (
@@ -40,6 +42,27 @@ function Projects() {
             />
           </Col>
 
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={scorpio}
+              isBlog={false}
+              title="Portrait HSLU"
+              description="Gives you the background information on my motivation to do a PhD in the field of data science."
+              demoLink="https://www.hslu.ch/de-ch/wirtschaft/studium/master/applied-information-and-data-science/erfahrungsberichte/berufsbild-doktorand/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={masterthesis}
+              isBlog={false}
+              title="Master Thesis Varroa Mite Detection"
+              description="In my master thesis I developed a deep learning algorithm to detect varroa mites from screening pages."
+              demoLink="https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/mit-dem-smartphone-gegen-milben-thurgauer-unterstuetzt-zuechter-im-kampf-gegen-das-bienensterben-ld.1240543"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={scorpio}
@@ -49,7 +72,6 @@ function Projects() {
               demoLink="https://scorpio.ch/"
             />
           </Col>
-
         </Row>
       </Container>
     </Container>
