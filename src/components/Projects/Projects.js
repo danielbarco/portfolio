@@ -45,7 +45,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={scorpio}
+              imgPath={portrait_HSLU}
               isBlog={false}
               title="Portrait HSLU"
               description="Gives you the background information on my motivation to do a PhD in the field of data science."
