@@ -7,6 +7,7 @@ import malaria_detection from "../../Assets/Projects/malaria-detection.gif";
 import review from "../../Assets/Projects/review.png";
 import masterthesis from "../../Assets/Projects/masterthesis.png";
 import portrait_HSLU from "../../Assets/Projects/portrait_HSLU.png";
+import uzh_3mt from "../../Assets/Projects/uzh_3mt.png";
 
 function Projects() {
   return (
@@ -17,7 +18,7 @@ function Projects() {
           My Recent <strong className="purple">Work </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          An overview of what I have been up to.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
@@ -31,6 +32,15 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={uzh_3mt}
+              isBlog={false}
+              title="3 minute thesis"
+              description="I won the 3 minute thesis audience award at the University of Zurich with my talk on detecting malaria with deep learning."
+              Link="https://github.com/danielbarco/malariadetection_webapp/tree/main"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -49,7 +59,7 @@ function Projects() {
               isBlog={false}
               title="Portrait HSLU"
               description="Gives you the background information on my motivation to do a PhD in the field of data science."
-              demoLink="https://www.hslu.ch/de-ch/wirtschaft/studium/master/applied-information-and-data-science/erfahrungsberichte/berufsbild-doktorand/"
+              Link="https://www.hslu.ch/de-ch/wirtschaft/studium/master/applied-information-and-data-science/erfahrungsberichte/berufsbild-doktorand/"
             />
           </Col>
 
@@ -59,7 +69,7 @@ function Projects() {
               isBlog={false}
               title="Master Thesis Varroa Mite Detection"
               description="In my master thesis I developed a deep learning algorithm to detect varroa mites from screening pages."
-              demoLink="https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/mit-dem-smartphone-gegen-milben-thurgauer-unterstuetzt-zuechter-im-kampf-gegen-das-bienensterben-ld.1240543"
+              Link="https://www.thurgauerzeitung.ch/ostschweiz/frauenfeld/mit-dem-smartphone-gegen-milben-thurgauer-unterstuetzt-zuechter-im-kampf-gegen-das-bienensterben-ld.1240543"
             />
           </Col>
 
@@ -69,7 +79,7 @@ function Projects() {
               isBlog={false}
               title="Scorpio Website"
               description="Website design for a local travel agency."
-              demoLink="https://scorpio.ch/"
+              Link="https://scorpio.ch/"
             />
           </Col>
         </Row>
