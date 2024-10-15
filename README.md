@@ -15,10 +15,10 @@
 
 </center>
 
+## Access Website 
 
-## TL;DR
+You can access the website [here](https://danielbarco.github.io/portfolio/).
 
-Based on [Soumyajit4419](https://github.com/soumyajit4419/Portfolio)
 
 ## Built With
 
@@ -61,3 +61,7 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
+
+## TL;DR
+
+Based on [Soumyajit4419](https://github.com/soumyajit4419/Portfolio)
