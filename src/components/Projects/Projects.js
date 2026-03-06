@@ -21,7 +21,17 @@ function Projects() {
           An overview of what I have been up to.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-
+            
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={mindi}
+              isBlog={false}
+              title="Publication: MInDI-3D"
+              description="MInDI-3D: Iterative Deep Learning in 3D for Sparse-View Cone Beam Computed Tomography"
+              pubLink="https://doi.org/10.1109/access.2026.3652627"
+            />
+          </Col>
+                
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={review}
